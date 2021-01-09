@@ -1,3 +1,6 @@
+Changes made made to xgamingserver control panel.
+Visit the game server at https://xgamingserver.com/
+
 [![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pterodactyl/panel/tests?label=Tests&style=for-the-badge)
