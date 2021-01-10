@@ -47,14 +47,14 @@ export default forwardRef<HTMLFormElement, Props>(({ title, ...props }, ref) => 
             </div>
         </Form>
         <p css={tw`text-center text-neutral-500 text-xs mt-4`}>
-            &copy; 2015 - 2020&nbsp;
+            &copy; 2021&nbsp;
             <a
                 rel={'noopener nofollow noreferrer'}
-                href={'https://pterodactyl.io'}
+                href={'https://xgamingserver.com'}
                 target={'_blank'}
                 css={tw`no-underline text-neutral-500 hover:text-neutral-300`}
             >
-                Pterodactyl Software
+                XGamingServer
             </a>
         </p>
     </Container>
